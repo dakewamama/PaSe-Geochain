@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+      // Common options for your entire project
+      "target": "es2020",
+      "module": "esnext",
+      "strict": true,
+      "esModuleInterop": true,
+      "skipLibCheck": true,
+      "forceConsistentCasingInFileNames": true
+    }
+  }
