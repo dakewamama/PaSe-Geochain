@@ -11,10 +11,13 @@
   "description": "",
   "dependencies": {
     "@civic/solana-gateway-react": "^1.2.1",
+    "@googlemaps/google-maps-services-js": "^3.4.0",
+    "@identity.com/solana-gateway-ts": "^0.12.0",
     "@solana/web3.js": "^1.95.3",
     "cors": "^2.8.5",
     "dotenv": "^16.4.5",
-    "express": "^4.21.0"
+    "express": "^2.5.11",
+    "firebase": "^10.14.0"
   },
   "devDependencies": {
     "@types/cors": "^2.8.17",
